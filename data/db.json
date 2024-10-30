@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": " 1st post",
+      "datetime": "july 14, 2023 11:13:45",
+      "body": "This is my first post about gcc"
+    },
+    {
+      "id": "2",
+      "title": " 2nd post",
+      "datetime": "sept 10, 2017 10:15:25",
+      "body": "This is about global summit"
+    },
+    {
+      "id": "211",
+      "title": "5th post",
+      "datetime": "April 13, 2024 7:23:35 PM",
+      "body": "sorry , i have to edit."
+    }
+  ]
+}
